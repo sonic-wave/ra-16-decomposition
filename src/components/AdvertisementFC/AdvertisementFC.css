@@ -1,0 +1,8 @@
+.advertisement-component {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.advertisement-image {
+    width: 600px;
+}

@@ -1,0 +1,33 @@
+.currency-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.currency-component {
+    display: flex;
+    margin-right: 10px;
+}
+
+.currency-title {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.currency-stockName {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.currency-amount {
+    margin-right: 5px;
+}
+
+.currency-percent {
+    color: silver;
+}
+
+.currency-link {
+    color: silver;
+    text-decoration: none;
+}

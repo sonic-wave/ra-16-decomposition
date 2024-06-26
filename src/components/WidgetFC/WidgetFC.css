@@ -1,0 +1,32 @@
+.widget-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.widget-title {
+    color: royalblue;
+    font-weight: bold;
+    text-align: left;
+}
+
+.widget-component {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+}
+
+.widget-image {
+    width: 25px;
+    margin-right: 5px;
+}
+
+.widget-link {
+    text-decoration: none;
+    color: black;
+    margin: 0 5px;
+}
+
+.widget-channel {
+    color: silver;
+}
